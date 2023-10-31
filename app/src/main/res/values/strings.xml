@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="textView_number">"0"</string>
+    <string name="result_number">"0"</string>
+</resources>
